@@ -1,0 +1,343 @@
+Feb 21 10:07:32 10.71.53.10 u89676561 Connection from 10.71.53.10 port 55068 on 66.175.239.52 port 22
+Feb 21 10:07:35 10.71.53.10 u89676561 Accepted password for u89676561 from 10.71.53.10 port 55068 ssh2
+Feb 21 10:07:35 10.71.53.10 u89676561 Starting session: subsystem 'sftp' for u89676561 from 10.71.53.10 port 55068
+Feb 21 10:07:35 10.71.53.10 u89676561 session opened for local user u89676561 from [10.71.53.10]
+Feb 21 10:08:01 10.71.53.10 u89676561 Connection from 10.71.53.10 port 27946 on 66.175.239.52 port 22
+Feb 21 10:08:01 10.71.53.10 u89676561 Accepted password for u89676561 from 10.71.53.10 port 27946 ssh2
+Feb 21 10:08:01 10.71.53.10 u89676561 Connection from 10.71.53.10 port 27948 on 66.175.239.52 port 22
+Feb 21 10:08:01 10.71.53.10 u89676561 Accepted password for u89676561 from 10.71.53.10 port 27948 ssh2
+Feb 21 10:08:01 10.71.53.10 u89676561 Starting session: subsystem 'sftp' for u89676561 from 10.71.53.10 port 27946
+Feb 21 10:08:01 10.71.53.10 u89676561 Starting session: subsystem 'sftp' for u89676561 from 10.71.53.10 port 27948
+Feb 21 10:08:01 10.71.53.10 u89676561 session opened for local user u89676561 from [10.71.53.10]
+Feb 21 10:08:01 10.71.53.10 u89676561 session opened for local user u89676561 from [10.71.53.10]
+Feb 21 10:08:02 10.71.53.10 u89676561 open "/contact.php" flags READ mode 0666
+Feb 21 10:08:02 10.71.53.10 u89676561 open "/about.php" flags READ mode 0666
+Feb 21 10:08:02 10.71.53.10 u89676561 close "/about.php" bytes read 3062 written 0
+Feb 21 10:08:02 10.71.53.10 u89676561 [10.71.53.10|get|0|3062|0|0|0|2f61626f75742e706870|]
+Feb 21 10:08:04 10.71.53.10 u89676561 open "/footer.php" flags READ mode 0666
+Feb 21 10:08:05 10.71.53.10 u89676561 close "/contact.php" bytes read 1492 written 0
+Feb 21 10:08:05 10.71.53.10 u89676561 [10.71.53.10|get|3|1492|0|0|0|2f636f6e746163742e706870|]
+Feb 21 10:08:08 10.71.53.10 u89676561 open "/header.php" flags READ mode 0666
+Feb 21 10:08:08 10.71.53.10 u89676561 close "/footer.php" bytes read 1065 written 0
+Feb 21 10:08:08 10.71.53.10 u89676561 [10.71.53.10|get|4|1065|0|0|0|2f666f6f7465722e706870|]
+Feb 21 10:08:08 10.71.53.10 u89676561 open "/index.php" flags READ mode 0666
+Feb 21 10:08:09 10.71.53.10 u89676561 close "/index.php" bytes read 4080 written 0
+Feb 21 10:08:09 10.71.53.10 u89676561 [10.71.53.10|get|1|4080|0|0|0|2f696e6465782e706870|]
+Feb 21 10:08:09 10.71.53.10 u89676561 open "/portfolio.php" flags READ mode 0666
+Feb 21 10:08:09 10.71.53.10 u89676561 close "/portfolio.php" bytes read 2237 written 0
+Feb 21 10:08:09 10.71.53.10 u89676561 [10.71.53.10|get|0|2237|0|0|0|2f706f7274666f6c696f2e706870|]
+Feb 21 10:08:09 10.71.53.10 u89676561 open "/services.php" flags READ mode 0666
+Feb 21 10:08:10 10.71.53.10 u89676561 close "/header.php" bytes read 3036 written 0
+Feb 21 10:08:10 10.71.53.10 u89676561 [10.71.53.10|get|2|3036|0|0|0|2f6865616465722e706870|]
+Feb 21 10:08:11 10.71.53.10 u89676561 close "/services.php" bytes read 3448 written 0
+Feb 21 10:08:11 10.71.53.10 u89676561 [10.71.53.10|get|2|3448|0|0|0|2f73657276696365732e706870|]
+Feb 21 10:08:13 10.71.53.10 u89676561 open "/css/styles.css" flags READ mode 0666
+Feb 21 10:08:15 10.71.53.10 u89676561 open "/css/flexslider.css" flags READ mode 0666
+Feb 21 10:08:16 10.71.53.10 u89676561 close "/css/styles.css" bytes read 33191 written 0
+Feb 21 10:08:16 10.71.53.10 u89676561 [10.71.53.10|get|3|33191|0|0|0|2f6373732f7374796c65732e637373|]
+Feb 21 10:08:17 10.71.53.10 u89676561 close "/css/flexslider.css" bytes read 6290 written 0
+Feb 21 10:08:17 10.71.53.10 u89676561 [10.71.53.10|get|2|6290|0|0|0|2f6373732f666c6578736c696465722e637373|]
+Feb 21 10:08:17 10.71.53.10 u89676561 open "/css/bootstrap.min.css" flags READ mode 0666
+Feb 21 10:08:18 10.71.53.10 u89676561 open "/css/bootstrap.css" flags READ mode 0666
+Feb 21 10:08:20 10.71.53.10 u89676561 close "/css/bootstrap.css" bytes read 130262 written 0
+Feb 21 10:08:20 10.71.53.10 u89676561 [10.71.53.10|get|2|130262|0|0|0|2f6373732f626f6f7473747261702e637373|]
+Feb 21 10:08:20 10.71.53.10 u89676561 close "/css/bootstrap.min.css" bytes read 103323 written 0
+Feb 21 10:08:20 10.71.53.10 u89676561 [10.71.53.10|get|3|103323|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Feb 21 10:08:20 10.71.53.10 u89676561 open "/css/bootstrap-responsive.min.css" flags READ mode 0666
+Feb 21 10:08:20 10.71.53.10 u89676561 open "/css/bootstrap-responsive.css" flags READ mode 0666
+Feb 21 10:08:21 10.71.53.10 u89676561 close "/css/bootstrap-responsive.css" bytes read 22843 written 0
+Feb 21 10:08:21 10.71.53.10 u89676561 [10.71.53.10|get|1|22843|0|0|0|2f6373732f626f6f7473747261702d726573706f6e736976652e637373|]
+Feb 21 10:08:21 10.71.53.10 u89676561 open "/css/bootstrap-override.css" flags READ mode 0666
+Feb 21 10:08:21 10.71.53.10 u89676561 close "/css/bootstrap-responsive.min.css" bytes read 16562 written 0
+Feb 21 10:08:21 10.71.53.10 u89676561 [10.71.53.10|get|1|16562|0|0|0|2f6373732f626f6f7473747261702d726573706f6e736976652e6d696e2e637373|]
+Feb 21 10:08:22 10.71.53.10 u89676561 close "/css/bootstrap-override.css" bytes read 1077 written 0
+Feb 21 10:08:22 10.71.53.10 u89676561 [10.71.53.10|get|1|1077|0|0|0|2f6373732f626f6f7473747261702d6f766572726964652e637373|]
+Feb 21 10:08:23 10.71.53.10 u89676561 open "/css/font-awesome/font-awesome.css" flags READ mode 0666
+Feb 21 10:08:23 10.71.53.10 u89676561 open "/css/font-awesome/font-awesome-ie7.min.css" flags READ mode 0666
+Feb 21 10:08:24 10.71.53.10 u89676561 close "/css/font-awesome/font-awesome.css" bytes read 22124 written 0
+Feb 21 10:08:24 10.71.53.10 u89676561 [10.71.53.10|get|1|22124|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e742d617765736f6d652e637373|]
+Feb 21 10:08:24 10.71.53.10 u89676561 close "/css/font-awesome/font-awesome-ie7.min.css" bytes read 25276 written 0
+Feb 21 10:08:24 10.71.53.10 u89676561 [10.71.53.10|get|1|25276|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e742d617765736f6d652d6965372e6d696e2e637373|]
+Feb 21 10:08:25 10.71.53.10 u89676561 open "/css/font-awesome/font/FontAwesome.otf" flags READ mode 0666
+Feb 21 10:08:25 10.71.53.10 u89676561 open "/css/font-awesome/font/fontawesome-webfont.woff" flags READ mode 0666
+Feb 21 10:08:25 10.71.53.10 u89676561 close "/css/font-awesome/font/FontAwesome.otf" bytes read 48748 written 0
+Feb 21 10:08:25 10.71.53.10 u89676561 [10.71.53.10|get|0|48748|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e742f466f6e74417765736f6d652e6f7466|]
+Feb 21 10:08:26 10.71.53.10 u89676561 open "/css/font-awesome/font/fontawesome-webfont.ttf" flags READ mode 0666
+Feb 21 10:08:26 10.71.53.10 u89676561 close "/css/font-awesome/font/fontawesome-webfont.woff" bytes read 29380 written 0
+Feb 21 10:08:26 10.71.53.10 u89676561 [10.71.53.10|get|1|29380|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e742f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Feb 21 10:08:26 10.71.53.10 u89676561 open "/css/font-awesome/font/fontawesome-webfont.svg" flags READ mode 0666
+Feb 21 10:08:26 10.71.53.10 u89676561 close "/css/font-awesome/font/fontawesome-webfont.ttf" bytes read 55096 written 0
+Feb 21 10:08:26 10.71.53.10 u89676561 [10.71.53.10|get|0|55096|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e742f666f6e74617765736f6d652d776562666f6e742e747466|]
+Feb 21 10:08:27 10.71.53.10 u89676561 open "/css/font-awesome/font/fontawesome-webfont.eot" flags READ mode 0666
+Feb 21 10:08:27 10.71.53.10 u89676561 close "/css/font-awesome/font/fontawesome-webfont.svg" bytes read 138771 written 0
+Feb 21 10:08:27 10.71.53.10 u89676561 [10.71.53.10|get|1|138771|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e742f666f6e74617765736f6d652d776562666f6e742e737667|]
+Feb 21 10:08:28 10.71.53.10 u89676561 close "/css/font-awesome/font/fontawesome-webfont.eot" bytes read 25395 written 0
+Feb 21 10:08:28 10.71.53.10 u89676561 [10.71.53.10|get|1|25395|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e742f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Feb 21 10:08:29 10.71.53.10 u89676561 open "/documentation/styles.css" flags READ mode 0666
+Feb 21 10:08:30 10.71.53.10 u89676561 open "/documentation/index.html" flags READ mode 0666
+Feb 21 10:08:30 10.71.53.10 u89676561 close "/documentation/styles.css" bytes read 2636 written 0
+Feb 21 10:08:30 10.71.53.10 u89676561 [10.71.53.10|get|1|2636|0|0|0|2f646f63756d656e746174696f6e2f7374796c65732e637373|]
+Feb 21 10:08:31 10.71.53.10 u89676561 close "/documentation/index.html" bytes read 75669 written 0
+Feb 21 10:08:31 10.71.53.10 u89676561 [10.71.53.10|get|1|75669|0|0|0|2f646f63756d656e746174696f6e2f696e6465782e68746d6c|]
+Feb 21 10:08:32 10.71.53.10 u89676561 open "/documentation/img/favicon.png" flags READ mode 0666
+Feb 21 10:08:33 10.71.53.10 u89676561 open "/documentation/img/cadem-logo.png" flags READ mode 0666
+Feb 21 10:08:35 10.71.53.10 u89676561 close "/documentation/img/favicon.png" bytes read 2966 written 0
+Feb 21 10:08:35 10.71.53.10 u89676561 [10.71.53.10|get|3|2966|0|0|0|2f646f63756d656e746174696f6e2f696d672f66617669636f6e2e706e67|]
+Feb 21 10:08:37 10.71.53.10 u89676561 close "/documentation/img/cadem-logo.png" bytes read 2782 written 0
+Feb 21 10:08:37 10.71.53.10 u89676561 [10.71.53.10|get|4|2782|0|0|0|2f646f63756d656e746174696f6e2f696d672f636164656d2d6c6f676f2e706e67|]
+Feb 21 10:08:38 10.71.53.10 u89676561 open "/img/evector3.png" flags READ mode 0666
+Feb 21 10:08:39 10.71.53.10 u89676561 open "/img/evector2.png" flags READ mode 0666
+Feb 21 10:08:40 10.71.53.10 u89676561 close "/img/evector3.png" bytes read 6571 written 0
+Feb 21 10:08:40 10.71.53.10 u89676561 [10.71.53.10|get|2|6571|0|0|0|2f696d672f65766563746f72332e706e67|]
+Feb 21 10:08:41 10.71.53.10 u89676561 open "/img/Cadem.png" flags READ mode 0666
+Feb 21 10:08:42 10.71.53.10 u89676561 close "/img/evector2.png" bytes read 22803 written 0
+Feb 21 10:08:42 10.71.53.10 u89676561 [10.71.53.10|get|3|22803|0|0|0|2f696d672f65766563746f72322e706e67|]
+Feb 21 10:08:42 10.71.53.10 u89676561 close "/img/Cadem.png" bytes read 1828 written 0
+Feb 21 10:08:42 10.71.53.10 u89676561 [10.71.53.10|get|1|1828|0|0|0|2f696d672f436164656d2e706e67|]
+Feb 21 10:08:42 10.71.53.10 u89676561 open "/img/evector.png" flags READ mode 0666
+Feb 21 10:08:43 10.71.53.10 u89676561 open "/img/zoom-icon.png" flags READ mode 0666
+Feb 21 10:08:44 10.71.53.10 u89676561 close "/img/evector.png" bytes read 22250 written 0
+Feb 21 10:08:44 10.71.53.10 u89676561 [10.71.53.10|get|2|22250|0|0|0|2f696d672f65766563746f722e706e67|]
+Feb 21 10:08:45 10.71.53.10 u89676561 open "/img/triangle.png" flags READ mode 0666
+Feb 21 10:08:45 10.71.53.10 u89676561 close "/img/zoom-icon.png" bytes read 1320 written 0
+Feb 21 10:08:45 10.71.53.10 u89676561 [10.71.53.10|get|2|1320|0|0|0|2f696d672f7a6f6f6d2d69636f6e2e706e67|]
+Feb 21 10:08:45 10.71.53.10 u89676561 open "/img/social-networks.png" flags READ mode 0666
+Feb 21 10:08:46 10.71.53.10 u89676561 close "/img/triangle.png" bytes read 1372 written 0
+Feb 21 10:08:46 10.71.53.10 u89676561 [10.71.53.10|get|1|1372|0|0|0|2f696d672f747269616e676c652e706e67|]
+Feb 21 10:08:47 10.71.53.10 u89676561 open "/img/select-box.png" flags READ mode 0666
+Feb 21 10:08:48 10.71.53.10 u89676561 close "/img/social-networks.png" bytes read 21935 written 0
+Feb 21 10:08:48 10.71.53.10 u89676561 [10.71.53.10|get|3|21935|0|0|0|2f696d672f736f6369616c2d6e6574776f726b732e706e67|]
+Feb 21 10:08:48 10.71.53.10 u89676561 close "/img/select-box.png" bytes read 2983 written 0
+Feb 21 10:08:48 10.71.53.10 u89676561 [10.71.53.10|get|1|2983|0|0|0|2f696d672f73656c6563742d626f782e706e67|]
+Feb 21 10:08:48 10.71.53.10 u89676561 open "/img/search-icon.png" flags READ mode 0666
+Feb 21 10:08:48 10.71.53.10 u89676561 open "/img/search-back.png" flags READ mode 0666
+Feb 21 10:08:49 10.71.53.10 u89676561 close "/img/search-icon.png" bytes read 1200 written 0
+Feb 21 10:08:49 10.71.53.10 u89676561 [10.71.53.10|get|1|1200|0|0|0|2f696d672f7365617263682d69636f6e2e706e67|]
+Feb 21 10:08:49 10.71.53.10 u89676561 close "/img/search-back.png" bytes read 923 written 0
+Feb 21 10:08:49 10.71.53.10 u89676561 [10.71.53.10|get|1|923|0|0|0|2f696d672f7365617263682d6261636b2e706e67|]
+Feb 21 10:08:50 10.71.53.10 u89676561 open "/img/quotes.png" flags READ mode 0666
+Feb 21 10:08:50 10.71.53.10 u89676561 open "/img/progress-back.png" flags READ mode 0666
+Feb 21 10:08:52 10.71.53.10 u89676561 close "/img/quotes.png" bytes read 1063 written 0
+Feb 21 10:08:52 10.71.53.10 u89676561 [10.71.53.10|get|2|1063|0|0|0|2f696d672f71756f7465732e706e67|]
+Feb 21 10:08:52 10.71.53.10 u89676561 close "/img/progress-back.png" bytes read 927 written 0
+Feb 21 10:08:52 10.71.53.10 u89676561 [10.71.53.10|get|2|927|0|0|0|2f696d672f70726f67726573732d6261636b2e706e67|]
+Feb 21 10:08:52 10.71.53.10 u89676561 open "/img/menu-divider.png" flags READ mode 0666
+Feb 21 10:08:53 10.71.53.10 u89676561 open "/img/logo-header.png" flags READ mode 0666
+Feb 21 10:08:53 10.71.53.10 u89676561 close "/img/menu-divider.png" bytes read 928 written 0
+Feb 21 10:08:53 10.71.53.10 u89676561 [10.71.53.10|get|1|928|0|0|0|2f696d672f6d656e752d646976696465722e706e67|]
+Feb 21 10:08:54 10.71.53.10 u89676561 close "/img/logo-header.png" bytes read 2188 written 0
+Feb 21 10:08:54 10.71.53.10 u89676561 [10.71.53.10|get|1|2188|0|0|0|2f696d672f6c6f676f2d6865616465722e706e67|]
+Feb 21 10:08:54 10.71.53.10 u89676561 open "/img/logo-footer.png" flags READ mode 0666
+Feb 21 10:08:54 10.71.53.10 u89676561 open "/img/logo-contact.png" flags READ mode 0666
+Feb 21 10:08:55 10.71.53.10 u89676561 close "/img/logo-footer.png" bytes read 2082 written 0
+Feb 21 10:08:55 10.71.53.10 u89676561 [10.71.53.10|get|1|2082|0|0|0|2f696d672f6c6f676f2d666f6f7465722e706e67|]
+Feb 21 10:08:56 10.71.53.10 u89676561 open "/img/favicon.png" flags READ mode 0666
+Feb 21 10:08:57 10.71.53.10 u89676561 close "/img/logo-contact.png" bytes read 2774 written 0
+Feb 21 10:08:57 10.71.53.10 u89676561 [10.71.53.10|get|3|2774|0|0|0|2f696d672f6c6f676f2d636f6e746163742e706e67|]
+Feb 21 10:08:57 10.71.53.10 u89676561 close "/img/favicon.png" bytes read 325 written 0
+Feb 21 10:08:57 10.71.53.10 u89676561 [10.71.53.10|get|1|325|0|0|0|2f696d672f66617669636f6e2e706e67|]
+Feb 21 10:08:58 10.71.53.10 u89676561 open "/img/comment-img.png" flags READ mode 0666
+Feb 21 10:08:58 10.71.53.10 u89676561 open "/img/bg-direction-nav.png" flags READ mode 0666
+Feb 21 10:08:59 10.71.53.10 u89676561 close "/img/comment-img.png" bytes read 1138 written 0
+Feb 21 10:08:59 10.71.53.10 u89676561 [10.71.53.10|get|1|1138|0|0|0|2f696d672f636f6d6d656e742d696d672e706e67|]
+Feb 21 10:09:00 10.71.53.10 u89676561 open "/img/bg-direction-nav-2.png" flags READ mode 0666
+Feb 21 10:09:00 10.71.53.10 u89676561 close "/img/bg-direction-nav.png" bytes read 2004 written 0
+Feb 21 10:09:00 10.71.53.10 u89676561 [10.71.53.10|get|2|2004|0|0|0|2f696d672f62672d646972656374696f6e2d6e61762e706e67|]
+Feb 21 10:09:01 10.71.53.10 u89676561 open "/img/back-to-the-top.png" flags READ mode 0666
+Feb 21 10:09:01 10.71.53.10 u89676561 close "/img/bg-direction-nav-2.png" bytes read 1223 written 0
+Feb 21 10:09:01 10.71.53.10 u89676561 [10.71.53.10|get|1|1223|0|0|0|2f696d672f62672d646972656374696f6e2d6e61762d322e706e67|]
+Feb 21 10:09:02 10.71.53.10 u89676561 open "/img/arrow3.png" flags READ mode 0666
+Feb 21 10:09:02 10.71.53.10 u89676561 close "/img/back-to-the-top.png" bytes read 1081 written 0
+Feb 21 10:09:02 10.71.53.10 u89676561 [10.71.53.10|get|1|1081|0|0|0|2f696d672f6261636b2d746f2d7468652d746f702e706e67|]
+Feb 21 10:09:03 10.71.53.10 u89676561 open "/img/arrow2.png" flags READ mode 0666
+Feb 21 10:09:04 10.71.53.10 u89676561 close "/img/arrow3.png" bytes read 1085 written 0
+Feb 21 10:09:04 10.71.53.10 u89676561 [10.71.53.10|get|2|1085|0|0|0|2f696d672f6172726f77332e706e67|]
+Feb 21 10:09:05 10.71.53.10 u89676561 open "/img/arrow1.png" flags READ mode 0666
+Feb 21 10:09:05 10.71.53.10 u89676561 close "/img/arrow2.png" bytes read 1206 written 0
+Feb 21 10:09:05 10.71.53.10 u89676561 [10.71.53.10|get|2|1206|0|0|0|2f696d672f6172726f77322e706e67|]
+Feb 21 10:09:06 10.71.53.10 u89676561 close "/img/arrow1.png" bytes read 1209 written 0
+Feb 21 10:09:06 10.71.53.10 u89676561 [10.71.53.10|get|1|1209|0|0|0|2f696d672f6172726f77312e706e67|]
+Feb 21 10:09:06 10.71.53.10 u89676561 open "/img/ajax-loader.gif" flags READ mode 0666
+Feb 21 10:09:07 10.71.53.10 u89676561 open "/img/blog/3.jpg" flags READ mode 0666
+Feb 21 10:09:08 10.71.53.10 u89676561 close "/img/ajax-loader.gif" bytes read 10819 written 0
+Feb 21 10:09:08 10.71.53.10 u89676561 [10.71.53.10|get|2|10819|0|0|0|2f696d672f616a61782d6c6f616465722e676966|]
+Feb 21 10:09:08 10.71.53.10 u89676561 close "/img/blog/3.jpg" bytes read 147521 written 0
+Feb 21 10:09:08 10.71.53.10 u89676561 [10.71.53.10|get|1|147521|0|0|0|2f696d672f626c6f672f332e6a7067|]
+Feb 21 10:09:09 10.71.53.10 u89676561 open "/img/blog/1.jpg" flags READ mode 0666
+Feb 21 10:09:09 10.71.53.10 u89676561 open "/img/blog/2.jpg" flags READ mode 0666
+Feb 21 10:09:10 10.71.53.10 u89676561 close "/img/blog/1.jpg" bytes read 312639 written 0
+Feb 21 10:09:10 10.71.53.10 u89676561 [10.71.53.10|get|1|312639|0|0|0|2f696d672f626c6f672f312e6a7067|]
+Feb 21 10:09:10 10.71.53.10 u89676561 close "/img/blog/2.jpg" bytes read 121031 written 0
+Feb 21 10:09:10 10.71.53.10 u89676561 [10.71.53.10|get|1|121031|0|0|0|2f696d672f626c6f672f322e6a7067|]
+Feb 21 10:09:11 10.71.53.10 u89676561 open "/img/blog-detail/1.jpg" flags READ mode 0666
+Feb 21 10:09:11 10.71.53.10 u89676561 open "/img/home/4.jpg" flags READ mode 0666
+Feb 21 10:09:12 10.71.53.10 u89676561 close "/img/blog-detail/1.jpg" bytes read 312639 written 0
+Feb 21 10:09:12 10.71.53.10 u89676561 [10.71.53.10|get|1|312639|0|0|0|2f696d672f626c6f672d64657461696c2f312e6a7067|]
+Feb 21 10:09:13 10.71.53.10 u89676561 open "/img/home/3.jpg" flags READ mode 0666
+Feb 21 10:09:13 10.71.53.10 u89676561 close "/img/home/4.jpg" bytes read 72288 written 0
+Feb 21 10:09:13 10.71.53.10 u89676561 [10.71.53.10|get|2|72288|0|0|0|2f696d672f686f6d652f342e6a7067|]
+Feb 21 10:09:13 10.71.53.10 u89676561 close "/img/home/3.jpg" bytes read 91507 written 0
+Feb 21 10:09:13 10.71.53.10 u89676561 [10.71.53.10|get|0|91507|0|0|0|2f696d672f686f6d652f332e6a7067|]
+Feb 21 10:09:13 10.71.53.10 u89676561 open "/img/home/2.jpg" flags READ mode 0666
+Feb 21 10:09:13 10.71.53.10 u89676561 open "/img/home/1.jpg" flags READ mode 0666
+Feb 21 10:09:14 10.71.53.10 u89676561 close "/img/home/2.jpg" bytes read 60007 written 0
+Feb 21 10:09:14 10.71.53.10 u89676561 [10.71.53.10|get|1|60007|0|0|0|2f696d672f686f6d652f322e6a7067|]
+Feb 21 10:09:14 10.71.53.10 u89676561 open "/img/our-clients/4.png" flags READ mode 0666
+Feb 21 10:09:14 10.71.53.10 u89676561 close "/img/home/1.jpg" bytes read 55684 written 0
+Feb 21 10:09:14 10.71.53.10 u89676561 [10.71.53.10|get|1|55684|0|0|0|2f696d672f686f6d652f312e6a7067|]
+Feb 21 10:09:14 10.71.53.10 u89676561 close "/img/our-clients/4.png" bytes read 8041 written 0
+Feb 21 10:09:14 10.71.53.10 u89676561 [10.71.53.10|get|0|8041|0|0|0|2f696d672f6f75722d636c69656e74732f342e706e67|]
+Feb 21 10:09:14 10.71.53.10 u89676561 open "/img/our-clients/2.png" flags READ mode 0666
+Feb 21 10:09:15 10.71.53.10 u89676561 open "/img/our-clients/3.png" flags READ mode 0666
+Feb 21 10:09:15 10.71.53.10 u89676561 close "/img/our-clients/3.png" bytes read 9738 written 0
+Feb 21 10:09:15 10.71.53.10 u89676561 [10.71.53.10|get|0|9738|0|0|0|2f696d672f6f75722d636c69656e74732f332e706e67|]
+Feb 21 10:09:15 10.71.53.10 u89676561 open "/img/our-clients/1.png" flags READ mode 0666
+Feb 21 10:09:16 10.71.53.10 u89676561 close "/img/our-clients/2.png" bytes read 5947 written 0
+Feb 21 10:09:16 10.71.53.10 u89676561 [10.71.53.10|get|2|5947|0|0|0|2f696d672f6f75722d636c69656e74732f322e706e67|]
+Feb 21 10:09:16 10.71.53.10 u89676561 close "/img/our-clients/1.png" bytes read 7963 written 0
+Feb 21 10:09:16 10.71.53.10 u89676561 [10.71.53.10|get|1|7963|0|0|0|2f696d672f6f75722d636c69656e74732f312e706e67|]
+Feb 21 10:09:16 10.71.53.10 u89676561 open "/img/our-team/4.jpg" flags READ mode 0666
+Feb 21 10:09:16 10.71.53.10 u89676561 close "/img/our-team/4.jpg" bytes read 68444 written 0
+Feb 21 10:09:16 10.71.53.10 u89676561 [10.71.53.10|get|0|68444|0|0|0|2f696d672f6f75722d7465616d2f342e6a7067|]
+Feb 21 10:09:16 10.71.53.10 u89676561 open "/img/our-team/3.jpg" flags READ mode 0666
+Feb 21 10:09:17 10.71.53.10 u89676561 open "/img/our-team/2.jpg" flags READ mode 0666
+Feb 21 10:09:17 10.71.53.10 u89676561 close "/img/our-team/3.jpg" bytes read 54531 written 0
+Feb 21 10:09:17 10.71.53.10 u89676561 [10.71.53.10|get|1|54531|0|0|0|2f696d672f6f75722d7465616d2f332e6a7067|]
+Feb 21 10:09:17 10.71.53.10 u89676561 open "/img/our-team/1.jpg" flags READ mode 0666
+Feb 21 10:09:18 10.71.53.10 u89676561 close "/img/our-team/2.jpg" bytes read 47746 written 0
+Feb 21 10:09:18 10.71.53.10 u89676561 [10.71.53.10|get|1|47746|0|0|0|2f696d672f6f75722d7465616d2f322e6a7067|]
+Feb 21 10:09:18 10.71.53.10 u89676561 close "/img/our-team/1.jpg" bytes read 40204 written 0
+Feb 21 10:09:18 10.71.53.10 u89676561 [10.71.53.10|get|1|40204|0|0|0|2f696d672f6f75722d7465616d2f312e6a7067|]
+Feb 21 10:09:18 10.71.53.10 u89676561 open "/img/page/01.jpg" flags READ mode 0666
+Feb 21 10:09:19 10.71.53.10 u89676561 close "/img/page/01.jpg" bytes read 117251 written 0
+Feb 21 10:09:19 10.71.53.10 u89676561 [10.71.53.10|get|1|117251|0|0|0|2f696d672f706167652f30312e6a7067|]
+Feb 21 10:09:19 10.71.53.10 u89676561 open "/img/page/1.jpg" flags READ mode 0666
+Feb 21 10:09:20 10.71.53.10 u89676561 close "/img/page/1.jpg" bytes read 117251 written 0
+Feb 21 10:09:20 10.71.53.10 u89676561 [10.71.53.10|get|1|117251|0|0|0|2f696d672f706167652f312e6a7067|]
+Feb 21 10:09:20 10.71.53.10 u89676561 open "/img/portfolio/9.jpg" flags READ mode 0666
+Feb 21 10:09:20 10.71.53.10 u89676561 open "/img/portfolio/8.jpg" flags READ mode 0666
+Feb 21 10:09:21 10.71.53.10 u89676561 close "/img/portfolio/9.jpg" bytes read 42765 written 0
+Feb 21 10:09:21 10.71.53.10 u89676561 [10.71.53.10|get|1|42765|0|0|0|2f696d672f706f7274666f6c696f2f392e6a7067|]
+Feb 21 10:09:21 10.71.53.10 u89676561 open "/img/portfolio/7.jpg" flags READ mode 0666
+Feb 21 10:09:21 10.71.53.10 u89676561 close "/img/portfolio/8.jpg" bytes read 30470 written 0
+Feb 21 10:09:21 10.71.53.10 u89676561 [10.71.53.10|get|1|30470|0|0|0|2f696d672f706f7274666f6c696f2f382e6a7067|]
+Feb 21 10:09:22 10.71.53.10 u89676561 open "/img/portfolio/6.jpg" flags READ mode 0666
+Feb 21 10:09:22 10.71.53.10 u89676561 close "/img/portfolio/7.jpg" bytes read 61454 written 0
+Feb 21 10:09:22 10.71.53.10 u89676561 [10.71.53.10|get|1|61454|0|0|0|2f696d672f706f7274666f6c696f2f372e6a7067|]
+Feb 21 10:09:22 10.71.53.10 u89676561 open "/img/portfolio/5.jpg" flags READ mode 0666
+Feb 21 10:09:23 10.71.53.10 u89676561 close "/img/portfolio/6.jpg" bytes read 33199 written 0
+Feb 21 10:09:23 10.71.53.10 u89676561 [10.71.53.10|get|1|33199|0|0|0|2f696d672f706f7274666f6c696f2f362e6a7067|]
+Feb 21 10:09:23 10.71.53.10 u89676561 open "/img/portfolio/4.jpg" flags READ mode 0666
+Feb 21 10:09:24 10.71.53.10 u89676561 close "/img/portfolio/5.jpg" bytes read 48965 written 0
+Feb 21 10:09:24 10.71.53.10 u89676561 [10.71.53.10|get|1|48965|0|0|0|2f696d672f706f7274666f6c696f2f352e6a7067|]
+Feb 21 10:09:24 10.71.53.10 u89676561 close "/img/portfolio/4.jpg" bytes read 61323 written 0
+Feb 21 10:09:24 10.71.53.10 u89676561 [10.71.53.10|get|1|61323|0|0|0|2f696d672f706f7274666f6c696f2f342e6a7067|]
+Feb 21 10:09:24 10.71.53.10 u89676561 open "/img/portfolio/3.jpg" flags READ mode 0666
+Feb 21 10:09:24 10.71.53.10 u89676561 open "/img/portfolio/2.jpg" flags READ mode 0666
+Feb 21 10:09:24 10.71.53.10 u89676561 close "/img/portfolio/3.jpg" bytes read 43419 written 0
+Feb 21 10:09:24 10.71.53.10 u89676561 [10.71.53.10|get|0|43419|0|0|0|2f696d672f706f7274666f6c696f2f332e6a7067|]
+Feb 21 10:09:26 10.71.53.10 u89676561 close "/img/portfolio/2.jpg" bytes read 48113 written 0
+Feb 21 10:09:26 10.71.53.10 u89676561 [10.71.53.10|get|2|48113|0|0|0|2f696d672f706f7274666f6c696f2f322e6a7067|]
+Feb 21 10:09:26 10.71.53.10 u89676561 open "/img/portfolio/12.jpg" flags READ mode 0666
+Feb 21 10:09:29 10.71.53.10 u89676561 open "/img/portfolio/11.jpg" flags READ mode 0666
+Feb 21 10:09:30 10.71.53.10 u89676561 close "/img/portfolio/12.jpg" bytes read 61416 written 0
+Feb 21 10:09:30 10.71.53.10 u89676561 [10.71.53.10|get|4|61416|0|0|0|2f696d672f706f7274666f6c696f2f31322e6a7067|]
+Feb 21 10:09:30 10.71.53.10 u89676561 close "/img/portfolio/11.jpg" bytes read 53504 written 0
+Feb 21 10:09:30 10.71.53.10 u89676561 [10.71.53.10|get|1|53504|0|0|0|2f696d672f706f7274666f6c696f2f31312e6a7067|]
+Feb 21 10:09:30 10.71.53.10 u89676561 open "/img/portfolio/1.jpg" flags READ mode 0666
+Feb 21 10:09:31 10.71.53.10 u89676561 open "/img/portfolio/10.jpg" flags READ mode 0666
+Feb 21 10:09:32 10.71.53.10 u89676561 close "/img/portfolio/1.jpg" bytes read 47727 written 0
+Feb 21 10:09:32 10.71.53.10 u89676561 [10.71.53.10|get|2|47727|0|0|0|2f696d672f706f7274666f6c696f2f312e6a7067|]
+Feb 21 10:09:32 10.71.53.10 u89676561 close "/img/portfolio/10.jpg" bytes read 40720 written 0
+Feb 21 10:09:32 10.71.53.10 u89676561 [10.71.53.10|get|1|40720|0|0|0|2f696d672f706f7274666f6c696f2f31302e6a7067|]
+Feb 21 10:09:32 10.71.53.10 u89676561 open "/img/portfolio-detail/4.jpg" flags READ mode 0666
+Feb 21 10:09:33 10.71.53.10 u89676561 open "/img/portfolio-detail/3.jpg" flags READ mode 0666
+Feb 21 10:09:33 10.71.53.10 u89676561 close "/img/portfolio-detail/4.jpg" bytes read 45051 written 0
+Feb 21 10:09:33 10.71.53.10 u89676561 [10.71.53.10|get|1|45051|0|0|0|2f696d672f706f7274666f6c696f2d64657461696c2f342e6a7067|]
+Feb 21 10:09:33 10.71.53.10 u89676561 close "/img/portfolio-detail/3.jpg" bytes read 30198 written 0
+Feb 21 10:09:33 10.71.53.10 u89676561 [10.71.53.10|get|0|30198|0|0|0|2f696d672f706f7274666f6c696f2d64657461696c2f332e6a7067|]
+Feb 21 10:09:34 10.71.53.10 u89676561 open "/img/portfolio-detail/1.jpg" flags READ mode 0666
+Feb 21 10:09:34 10.71.53.10 u89676561 open "/img/portfolio-detail/2.jpg" flags READ mode 0666
+Feb 21 10:09:35 10.71.53.10 u89676561 close "/img/portfolio-detail/1.jpg" bytes read 38026 written 0
+Feb 21 10:09:35 10.71.53.10 u89676561 [10.71.53.10|get|1|38026|0|0|0|2f696d672f706f7274666f6c696f2d64657461696c2f312e6a7067|]
+Feb 21 10:09:35 10.71.53.10 u89676561 close "/img/portfolio-detail/2.jpg" bytes read 34054 written 0
+Feb 21 10:09:35 10.71.53.10 u89676561 [10.71.53.10|get|1|34054|0|0|0|2f696d672f706f7274666f6c696f2d64657461696c2f322e6a7067|]
+Feb 21 10:09:36 10.71.53.10 u89676561 open "/img/slider/3.jpg" flags READ mode 0666
+Feb 21 10:09:36 10.71.53.10 u89676561 open "/img/slider/1.jpg" flags READ mode 0666
+Feb 21 10:09:38 10.71.53.10 u89676561 close "/img/slider/3.jpg" bytes read 256502 written 0
+Feb 21 10:09:38 10.71.53.10 u89676561 [10.71.53.10|get|2|256502|0|0|0|2f696d672f736c696465722f332e6a7067|]
+Feb 21 10:09:38 10.71.53.10 u89676561 close "/img/slider/1.jpg" bytes read 306363 written 0
+Feb 21 10:09:38 10.71.53.10 u89676561 [10.71.53.10|get|2|306363|0|0|0|2f696d672f736c696465722f312e6a7067|]
+Feb 21 10:09:38 10.71.53.10 u89676561 open "/img/slider/2.jpg" flags READ mode 0666
+Feb 21 10:09:39 10.71.53.10 u89676561 open "/img/slider-portfolio/2.jpg" flags READ mode 0666
+Feb 21 10:09:40 10.71.53.10 u89676561 close "/img/slider/2.jpg" bytes read 282914 written 0
+Feb 21 10:09:40 10.71.53.10 u89676561 [10.71.53.10|get|2|282914|0|0|0|2f696d672f736c696465722f322e6a7067|]
+Feb 21 10:09:40 10.71.53.10 u89676561 close "/img/slider-portfolio/2.jpg" bytes read 125442 written 0
+Feb 21 10:09:40 10.71.53.10 u89676561 [10.71.53.10|get|1|125442|0|0|0|2f696d672f736c696465722d706f7274666f6c696f2f322e6a7067|]
+Feb 21 10:09:41 10.71.53.10 u89676561 open "/img/slider-portfolio/1.jpg" flags READ mode 0666
+Feb 21 10:09:41 10.71.53.10 u89676561 open "/img/stream/06.jpg" flags READ mode 0666
+Feb 21 10:09:43 10.71.53.10 u89676561 close "/img/stream/06.jpg" bytes read 18463 written 0
+Feb 21 10:09:43 10.71.53.10 u89676561 [10.71.53.10|get|2|18463|0|0|0|2f696d672f73747265616d2f30362e6a7067|]
+Feb 21 10:09:44 10.71.53.10 u89676561 open "/img/stream/05.jpg" flags READ mode 0666
+Feb 21 10:09:45 10.71.53.10 u89676561 close "/img/slider-portfolio/1.jpg" bytes read 300898 written 0
+Feb 21 10:09:45 10.71.53.10 u89676561 [10.71.53.10|get|4|300898|0|0|0|2f696d672f736c696465722d706f7274666f6c696f2f312e6a7067|]
+Feb 21 10:09:45 10.71.53.10 u89676561 open "/img/stream/04.jpg" flags READ mode 0666
+Feb 21 10:09:46 10.71.53.10 u89676561 close "/img/stream/04.jpg" bytes read 11627 written 0
+Feb 21 10:09:46 10.71.53.10 u89676561 [10.71.53.10|get|1|11627|0|0|0|2f696d672f73747265616d2f30342e6a7067|]
+Feb 21 10:09:46 10.71.53.10 u89676561 close "/img/stream/05.jpg" bytes read 21110 written 0
+Feb 21 10:09:46 10.71.53.10 u89676561 [10.71.53.10|get|2|21110|0|0|0|2f696d672f73747265616d2f30352e6a7067|]
+Feb 21 10:09:46 10.71.53.10 u89676561 open "/img/stream/03.jpg" flags READ mode 0666
+Feb 21 10:09:47 10.71.53.10 u89676561 open "/img/stream/01.jpg" flags READ mode 0666
+Feb 21 10:09:48 10.71.53.10 u89676561 close "/img/stream/01.jpg" bytes read 11608 written 0
+Feb 21 10:09:48 10.71.53.10 u89676561 [10.71.53.10|get|1|11608|0|0|0|2f696d672f73747265616d2f30312e6a7067|]
+Feb 21 10:09:48 10.71.53.10 u89676561 close "/img/stream/03.jpg" bytes read 11437 written 0
+Feb 21 10:09:48 10.71.53.10 u89676561 [10.71.53.10|get|2|11437|0|0|0|2f696d672f73747265616d2f30332e6a7067|]
+Feb 21 10:09:48 10.71.53.10 u89676561 open "/img/stream/02.jpg" flags READ mode 0666
+Feb 21 10:09:50 10.71.53.10 u89676561 open "/img/services/market.jpg" flags READ mode 0666
+Feb 21 10:09:53 10.71.53.10 u89676561 close "/img/stream/02.jpg" bytes read 12006 written 0
+Feb 21 10:09:53 10.71.53.10 u89676561 [10.71.53.10|get|5|12006|0|0|0|2f696d672f73747265616d2f30322e6a7067|]
+Feb 21 10:09:54 10.71.53.10 u89676561 close "/img/services/market.jpg" bytes read 1191312 written 0
+Feb 21 10:09:54 10.71.53.10 u89676561 [10.71.53.10|get|4|1191312|0|0|0|2f696d672f73657276696365732f6d61726b65742e6a7067|]
+Feb 21 10:09:55 10.71.53.10 u89676561 open "/img/services/web_design.jpg" flags READ mode 0666
+Feb 21 10:09:55 10.71.53.10 u89676561 open "/img/services/soft_dev.jpg" flags READ mode 0666
+Feb 21 10:09:57 10.71.53.10 u89676561 close "/img/services/web_design.jpg" bytes read 10819 written 0
+Feb 21 10:09:57 10.71.53.10 u89676561 [10.71.53.10|get|2|10819|0|0|0|2f696d672f73657276696365732f7765625f64657369676e2e6a7067|]
+Feb 21 10:09:58 10.71.53.10 u89676561 close "/img/services/soft_dev.jpg" bytes read 152653 written 0
+Feb 21 10:09:58 10.71.53.10 u89676561 [10.71.53.10|get|3|152653|0|0|0|2f696d672f73657276696365732f736f66745f6465762e6a7067|]
+Feb 21 10:09:58 10.71.53.10 u89676561 open "/img/services/web_dev.jpg" flags READ mode 0666
+Feb 21 10:09:59 10.71.53.10 u89676561 open "/img/firstpage/5.png" flags READ mode 0666
+Feb 21 10:10:01 10.71.53.10 u89676561 close "/img/services/web_dev.jpg" bytes read 10021 written 0
+Feb 21 10:10:01 10.71.53.10 u89676561 [10.71.53.10|get|3|10021|0|0|0|2f696d672f73657276696365732f7765625f6465762e6a7067|]
+Feb 21 10:10:02 10.71.53.10 u89676561 close "/img/firstpage/5.png" bytes read 77794 written 0
+Feb 21 10:10:02 10.71.53.10 u89676561 [10.71.53.10|get|3|77794|0|0|0|2f696d672f6669727374706167652f352e706e67|]
+Feb 21 10:10:05 10.71.53.10 u89676561 open "/img/firstpage/4.png" flags READ mode 0666
+Feb 21 10:10:05 10.71.53.10 u89676561 open "/img/firstpage/3.png" flags READ mode 0666
+Feb 21 10:10:06 10.71.53.10 u89676561 close "/img/firstpage/4.png" bytes read 24231 written 0
+Feb 21 10:10:06 10.71.53.10 u89676561 [10.71.53.10|get|1|24231|0|0|0|2f696d672f6669727374706167652f342e706e67|]
+Feb 21 10:10:07 10.71.53.10 u89676561 open "/img/firstpage/2.png" flags READ mode 0666
+Feb 21 10:10:08 10.71.53.10 u89676561 close "/img/firstpage/3.png" bytes read 143282 written 0
+Feb 21 10:10:08 10.71.53.10 u89676561 [10.71.53.10|get|3|143282|0|0|0|2f696d672f6669727374706167652f332e706e67|]
+Feb 21 10:10:09 10.71.53.10 u89676561 open "/img/firstpage/1.png" flags READ mode 0666
+Feb 21 10:10:10 10.71.53.10 u89676561 close "/img/firstpage/1.png" bytes read 119454 written 0
+Feb 21 10:10:10 10.71.53.10 u89676561 [10.71.53.10|get|1|119454|0|0|0|2f696d672f6669727374706167652f312e706e67|]
+Feb 21 10:10:11 10.71.53.10 u89676561 close "/img/firstpage/2.png" bytes read 116534 written 0
+Feb 21 10:10:11 10.71.53.10 u89676561 [10.71.53.10|get|4|116534|0|0|0|2f696d672f6669727374706167652f322e706e67|]
+Feb 21 10:10:12 10.71.53.10 u89676561 open "/js/jquery.isotope.min.js" flags READ mode 0666
+Feb 21 10:10:12 10.71.53.10 u89676561 open "/js/jquery.flexslider.js" flags READ mode 0666
+Feb 21 10:10:14 10.71.53.10 u89676561 close "/js/jquery.flexslider.js" bytes read 41705 written 0
+Feb 21 10:10:14 10.71.53.10 u89676561 [10.71.53.10|get|2|41705|0|0|0|2f6a732f6a71756572792e666c6578736c696465722e6a73|]
+Feb 21 10:10:14 10.71.53.10 u89676561 close "/js/jquery.isotope.min.js" bytes read 15886 written 0
+Feb 21 10:10:14 10.71.53.10 u89676561 [10.71.53.10|get|2|15886|0|0|0|2f6a732f6a71756572792e69736f746f70652e6d696e2e6a73|]
+Feb 21 10:10:14 10.71.53.10 u89676561 open "/js/jquery-1.8.3.min.js" flags READ mode 0666
+Feb 21 10:10:15 10.71.53.10 u89676561 open "/js/functions.js" flags READ mode 0666
+Feb 21 10:10:16 10.71.53.10 u89676561 close "/js/jquery-1.8.3.min.js" bytes read 93637 written 0
+Feb 21 10:10:16 10.71.53.10 u89676561 [10.71.53.10|get|2|93637|0|0|0|2f6a732f6a71756572792d312e382e332e6d696e2e6a73|]
+Feb 21 10:10:16 10.71.53.10 u89676561 close "/js/functions.js" bytes read 6086 written 0
+Feb 21 10:10:16 10.71.53.10 u89676561 [10.71.53.10|get|1|6086|0|0|0|2f6a732f66756e6374696f6e732e6a73|]
+Feb 21 10:10:16 10.71.53.10 u89676561 open "/js/bootstrap.js" flags READ mode 0666
+Feb 21 10:10:18 10.71.53.10 u89676561 open "/js/bootstrap.min.js" flags READ mode 0666
+Feb 21 10:10:18 10.71.53.10 u89676561 close "/js/bootstrap.js" bytes read 60674 written 0
+Feb 21 10:10:18 10.71.53.10 u89676561 [10.71.53.10|get|2|60674|0|0|0|2f6a732f626f6f7473747261702e6a73|]
+Feb 21 10:10:20 10.71.53.10 u89676561 open "/logs/sftp.log" flags READ mode 0666
+Feb 21 10:10:20 10.71.53.10 u89676561 close "/js/bootstrap.min.js" bytes read 31601 written 0
+Feb 21 10:10:20 10.71.53.10 u89676561 [10.71.53.10|get|2|31601|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
