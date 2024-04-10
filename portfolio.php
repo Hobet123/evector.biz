@@ -46,10 +46,16 @@
       	<section class="row" id="portfolio-items">
             <ul class="portfolio">
               <!---->
-              <?php 
+              <?php
+
+                //print_r($imgs);
+                unset($imgs[0]);
+                unset($imgs[18]);
+              
                 foreach($imgs as $cur): 
                 
                 $url = str_replace(".png", "", $cur);
+                
               ?>
                 <li>
                   <article class="span3 project" data-tags="photography">     

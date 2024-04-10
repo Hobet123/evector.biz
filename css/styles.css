@@ -1117,8 +1117,8 @@ th {
 /* --------------------------------------------------------	*/
 
 #footer {
-  padding:30px 41px 20px 41px;
-  background:#323232;
+  padding:10px 41px 5px 41px;
+  background:rgb(17, 17, 17);
   border-bottom:2px solid #060606;
 }
 

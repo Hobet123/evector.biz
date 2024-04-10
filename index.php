@@ -39,7 +39,7 @@
                           
                         <div class="img-bg-icon"></div>
                       </div>
-                      <h3>Web Development abc</h3>
+                      <h3>Web Development</h3>
                         eCommerce solutions, Social Netwotking integration, Blogs...
                     </div>
                   </a>
@@ -64,7 +64,7 @@
                         <div class="img-bg-icon"></div>
                       </div>
                       <h3>Business Solutions</h3>
-			Trading Systems, Accounting, Inventory systems
+			                    Trading Systems, Accounting, Inventory systems
                     </div>
                   </a>
                   
@@ -90,14 +90,32 @@
                         <img src="/img/firstpage/4.png" height="100" alt="">
                         <div class="img-bg-icon"></div>
                       </div>
-                      <h3>Internet Marketing</h3>
-                    A powerful marketing tools that allows to make money... 
+                      <h3>Internet Marketing 223</h3>
+                      A powerful marketing tools that allows to make money... 
 
                     </div>
                   </a>
                   
                 </div> 
               </li>
+              <li>
+                <div class="row">
+                
+                  <a href="services.php">
+                    <div class="span3 square-1">
+                      <div class="img-container">
+                        <img src="/img/firstpage/4.png" height="100" alt="">
+                        <div class="img-bg-icon"></div>
+                      </div>
+                      <h3>Internet Marketing 3</h3>
+                      A powerful marketing tools that allows to make money... 
+
+                    </div>
+                  </a>
+                  
+                </div> 
+              </li>
+
             </ul>
           </div>   
 </div> 
